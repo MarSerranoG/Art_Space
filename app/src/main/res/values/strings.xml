@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gorillaz Band(Art_Space)</string>
+    <string name="t1">2D</string>
+    <string name="t2">Murdoc</string>
+    <string name="t3">Noodle</string>
+    <string name="t4">Russel</string>
+
+    <string name="creacionT1">Vocalista</string>
+    <string name="creacionT2">Guitarrista</string>
+    <string name="creacionT3">2do Vocalista y bajista</string>
+    <string name="creacionT4">Baterista</string>
+</resources>
